@@ -1,0 +1,16 @@
+{
+    "params":
+    {
+      "local_server":"True",
+      "local_uri": "mysql://root:@localhost/blog",
+      "prod_uri":"mysql://root:@localhost/blog",
+      "fb_url":"https://facebook.com/shainaofficial3100@gmail.com",
+      "tw_url":"https://twitter.com/shainaofficial3100@gmail.com",
+      "gh_url": "https://github.com/codingthunder",
+      "gmail-user":"shainaofficial3100@gmail.com",
+      "gmail-password":"shaina@2000",
+      "no_of_posts": 3,
+      "admin_user":"shainaofficial3100@gmail.com",
+      "admin_password":"shaishiv2000"
+    }
+  }
